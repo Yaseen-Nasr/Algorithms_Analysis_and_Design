@@ -1,0 +1,15 @@
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\bin\Debug\net6.0\AlgorithmsAnalysisAndDesign.exe
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\bin\Debug\net6.0\AlgorithmsAnalysisAndDesign.deps.json
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\bin\Debug\net6.0\AlgorithmsAnalysisAndDesign.runtimeconfig.json
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\bin\Debug\net6.0\AlgorithmsAnalysisAndDesign.dll
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\bin\Debug\net6.0\AlgorithmsAnalysisAndDesign.pdb
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\obj\Debug\net6.0\AlgorithmsAnalysisAndDesign.csproj.AssemblyReference.cache
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\obj\Debug\net6.0\AlgorithmsAnalysisAndDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\obj\Debug\net6.0\AlgorithmsAnalysisAndDesign.AssemblyInfoInputs.cache
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\obj\Debug\net6.0\AlgorithmsAnalysisAndDesign.AssemblyInfo.cs
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\obj\Debug\net6.0\AlgorithmsAnalysisAndDesign.csproj.CoreCompileInputs.cache
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\obj\Debug\net6.0\AlgorithmsAnalysisAndDesign.dll
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\obj\Debug\net6.0\refint\AlgorithmsAnalysisAndDesign.dll
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\obj\Debug\net6.0\AlgorithmsAnalysisAndDesign.pdb
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\obj\Debug\net6.0\AlgorithmsAnalysisAndDesign.genruntimeconfig.cache
+C:\Data\AlgorithmsAnalysisAndDesign\AlgorithmsAnalysisAndDesign\obj\Debug\net6.0\ref\AlgorithmsAnalysisAndDesign.dll
