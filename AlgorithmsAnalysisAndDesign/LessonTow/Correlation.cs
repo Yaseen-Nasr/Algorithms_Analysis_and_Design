@@ -43,8 +43,8 @@ namespace AlgorithmsAnalysisAndDesign.LessonTow
                 sumb += y[i];
 
             }
-            Console.WriteLine($"{avgx}==== {avgy}");
-            Console.WriteLine($"suma:{suma} -- sumb{sumb} --sumab{sumab}");
+            //Console.WriteLine($"{avgx} ==== {avgy}");
+            //Console.WriteLine($"suma:{suma} -- sumb{sumb} -- sumab{sumab}");
             co = (float)(sumab / Math.Sqrt(suma * sumb));
             Console.WriteLine($"Correlation is: {co}");
         }
