@@ -1,5 +1,6 @@
 ﻿using AlgorithmsAnalysisAndDesign.LessonTow;
 using AlgorithmsAnalysisAndDesign.MegeSort;
+using AlgorithmsAnalysisAndDesign.MergeSort;
 
 namespace AlgorithmsAnalysisAndDesign
 {
@@ -13,11 +14,13 @@ namespace AlgorithmsAnalysisAndDesign
             //Correlation.CalculateCorrelation();
             //int[] x = { 9, 5, 1, 4, 3,8,10 };
             //InsertionSort.InsertionSortImplementattion.InsertionSort(x);
-            int[] x = { 9, 5, 1, 4, 3, 8, 10 };
-            Console.WriteLine(String.Join(", ", x));
-            MergeSortImpl.SortArray(x, 0, x.Length - 1);
-            Console.WriteLine(String.Join(", ", x));
-
+            //Console.WriteLine(String.Join(", ", x));
+            //MergeSortImpl.SortArray(x, 0, x.Length - 1);
+            //Console.WriteLine(String.Join(", ", x));
+            int[] x = { -1, 5, -3, -4,6,7,-9 };
+            Console.WriteLine(String.Join(", ",x));
+            SegregateNumbers.Segregate(x, 0, x.Length - 1);
+            Console.WriteLine(String.Join(", ",x));
 
         }
        
