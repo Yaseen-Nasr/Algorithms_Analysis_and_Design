@@ -8,7 +8,7 @@ namespace AlgorithmsAnalysisAndDesign.MegeSort
 {
     public static class MergeSortImpl
     {
-        public static void SortArray(int[] array, int start, int end)
+        public static void SortArray (int[] array, int start, int end)
         {
             if (end <= start) return;
 

@@ -24,9 +24,9 @@ namespace AlgorithmsAnalysisAndDesign.LessonTow
             for (int i = 0; i < n; i++)
             {
                 Console.Write($"x[{i}]=");
-                x[i] = float.Parse(Console.ReadLine());
+                x[i] = float.Parse(Console.ReadLine()!);
                 Console.Write($"y[{i}]=");
-                y[i] = float.Parse(Console.ReadLine());
+                y[i] = float.Parse(Console.ReadLine()!);
                 avgx += x[i];
                 avgy += y[i];
             }
