@@ -1,4 +1,5 @@
-﻿using AlgorithmsAnalysisAndDesign.FractionalKnapsackProblem;
+﻿using AlgorithmsAnalysisAndDesign.DaynamicPrograming;
+using AlgorithmsAnalysisAndDesign.FractionalKnapsackProblem;
 using AlgorithmsAnalysisAndDesign.GreedyAlgorithm;
 using AlgorithmsAnalysisAndDesign.HuffmanCoding;
 using AlgorithmsAnalysisAndDesign.LessonTow;
@@ -11,8 +12,7 @@ namespace AlgorithmsAnalysisAndDesign
     {
      public static void Main(string[] args)
         {
-            Example example= new Example();
-            example.Run();
+            StagecoachProblem.Run();
 
             Console.ReadKey();
         }
