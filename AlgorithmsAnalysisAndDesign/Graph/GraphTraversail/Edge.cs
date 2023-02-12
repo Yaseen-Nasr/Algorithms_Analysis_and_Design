@@ -6,8 +6,8 @@
         public Vertex Target { get; }
         public Edge(Vertex source, Vertex target)
         {
-            this.Source = source;
-            this.Target = target;
+            Source = source;
+            Target = target;
         }
 
     }
